@@ -1,8 +1,10 @@
   <div align=center>
 	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)               
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwltjr0920&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)             
   </div>
-  ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=Kinetic27&show_icons=true)
+  
+![wltjr0920's github stats](https://github-readme-stats.vercel.app/api?username=wltjr0920&show_icons=true)  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wltjr0920)](https://solved.ac/wltjr0920)
 ### Hi there 👋
 
 
