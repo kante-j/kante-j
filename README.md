@@ -4,7 +4,6 @@
   </div>
   
 ![wltjr0920's github stats](https://github-readme-stats.vercel.app/api?username=wltjr0920&show_icons=true)  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wltjr0920)](https://solved.ac/wltjr0920)
 ### 기술 스택
 |      | Server                              | Client                           | Language                        |
 | ---- | ----------------------------------- | -------------------------------- | ------------------------------- |
