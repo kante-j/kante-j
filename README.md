@@ -1,6 +1,4 @@
 
-  
-![wltjr0920's github stats](https://github-readme-stats.vercel.app/api?username=wltjr0920&show_icons=true)  
 ### 기술 스택
 |      | Server                              | Client                           | Language                        |
 | ---- | ----------------------------------- | -------------------------------- | ------------------------------- |
